@@ -1,2 +1,3 @@
 # learning-test
-Raquel's learning repo 
+Raquel's learning repo
+lorem ipsum
